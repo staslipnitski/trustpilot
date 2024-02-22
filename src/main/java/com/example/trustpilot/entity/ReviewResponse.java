@@ -1,4 +1,4 @@
-package com.example.trustpilot.service.dto;
+package com.example.trustpilot.entity;
 
 import lombok.Data;
 

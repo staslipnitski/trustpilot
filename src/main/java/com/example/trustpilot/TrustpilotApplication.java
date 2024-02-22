@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TrustpilotApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TrustpilotApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TrustpilotApplication.class, args);
+    }
 
 }
